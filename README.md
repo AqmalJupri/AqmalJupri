@@ -1,23 +1,19 @@
 # Aqmal Jupri
 
-Operator-builder based in Kuala Terengganu, Malaysia.
+Operator-builder in Kuala Terengganu, Malaysia. I build small, tested systems for SMEs: CRM, sales operations, finance workflows and internal dashboards.
 
-I build practical business systems for SMEs: CRM, sales ops, internal dashboards, workflow automation and AI-assisted operating tools.
+## Open source
+
+- **OpenKuasa**: merged [PR #411](https://github.com/OpenKuasa/OpenKuasa/pull/411). Line items now size from the form and keep their labels at phone and tablet widths.
+- **[hermes-central](https://github.com/AqmalJupri/hermes-central)**: rules, skills and memory seeds for a multi-agent Hermes setup.
+- **[OpenKuasaOS fork](https://github.com/AqmalJupri/OpenKuasaOS)**: working fork for contributions.
 
 ## Current focus
 
-- SME operating systems
-- CRM and sales operations
-- Automation for admin, reporting and follow-up
-- AI workflow tooling for business teams
-- Open-source contributions around product, CRM and data workflows
-
-## Recent work
-
-- Contributing to OpenKuasaOS, an open-source SME operating system.
-- Building internal tools for sales admin, project tracking and business operations.
-- Exploring agent-assisted workflows for repeatable business processes.
+- SME operating systems, CRM and sales operations
+- Payroll, SST and finance workflow correctness
+- AI workflow tooling that people can audit
 
 ## Working style
 
-Small useful releases. Clear data. Tested workflows. Less noise.
+Small releases. Clear data. Tests and screenshots. Less noise.
