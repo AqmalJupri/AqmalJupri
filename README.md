@@ -40,10 +40,6 @@ I build small, tested systems for SMEs: CRM, sales operations, finance workflows
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AqmalJupri&theme=github&bg_color=F5F0E6&title_color=1F3D2B&text_color=1B1E19&icon_color=AE8850&border_color=D9D1C1" alt="GitHub profile summary">
 </p>
 
-<p align="center">
-  <img width="495" src="https://streak-stats.demolab.com?user=AqmalJupri&hide_border=true&background=F5F0E6&ring=1F3D2B&fire=AE8850&currStreakLabel=1F3D2B&sideLabels=1B1E19&dates=6C7064" alt="GitHub streak">
-</p>
-
 ### Now
 
 Contributing to OpenKuasa. Building finance and payroll correctness. Open to small, well-scoped collaborations.
