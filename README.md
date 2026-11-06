@@ -37,8 +37,11 @@ I build small, tested systems for SMEs: CRM, sales operations, finance workflows
 ### GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AqmalJupri&show_icons=true&hide_border=true&rank_icon=github&bg_color=F5F0E6&title_color=1F3D2B&text_color=1B1E19&icon_color=AE8850" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AqmalJupri&layout=compact&hide_border=true&langs_count=6&bg_color=F5F0E6&title_color=1F3D2B&text_color=1B1E19" alt="Top languages">
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AqmalJupri&theme=github&bg_color=F5F0E6&title_color=1F3D2B&text_color=1B1E19&icon_color=AE8850&border_color=D9D1C1" alt="GitHub profile summary">
+</p>
+
+<p align="center">
+  <img width="495" src="https://streak-stats.demolab.com?user=AqmalJupri&hide_border=true&background=F5F0E6&ring=1F3D2B&fire=AE8850&currStreakLabel=1F3D2B&sideLabels=1B1E19&dates=6C7064" alt="GitHub streak">
 </p>
 
 ### Now
